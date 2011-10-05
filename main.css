@@ -1,0 +1,41 @@
+/* CSS Document */
+.lsidebar{
+	position:relative;
+	top:10px;
+	left:0px;
+	margin-top:0;
+	margin-left:0;
+	paddding-left:0px;
+	list-style:none;
+	boarder-bottom:none;
+	float:left;
+	width:0px;
+	top-margin:0;
+}
+ul.lsidebar li{
+	float:left;
+}
+ul.lsidebar a{
+	width:3em;
+	display:block;
+	boarder:none;
+	padding:4px;
+	padding-left:0px;
+	margin-right:0px;
+	background-color:#CCC;
+	text-decoration:none;
+	color:#930;
+	text-align:left;
+}
+ul.lsidebar a:hover{
+	width:3em;
+	display:block;
+	boarder:none;
+	padding:5px;
+	margin-right:5px;
+	background-color:#CCC;
+	color:#FFCB66;
+	text-decoration:none;
+}
+	
+	
